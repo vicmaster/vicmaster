@@ -11,4 +11,5 @@ My favorite tool is Ruby on Rails, I also like dancing, playing music, traveling
 
 * ⚡ [Coide](https://github.com/vicmaster/coide) - A desktop GUI client for Claude Code that wraps the CLI you already use — same account, same subscription, no API key needed.
 * 🧩 [Claude Code Skills](https://github.com/vicmaster/skills) - A collection of reusable skills for Claude Code.
-* 🎨 [Claude Code Obsidian](https://github.com/vicmaster/claude-code-obsidian) - A premium iTerm2 theme system designed for Claude Code operators who spend hours reading plans, diffs, logs, prompts, tool calls, errors, and approvals.
+* 🖥️ [Claude Code Obsidian](https://github.com/vicmaster/claude-code-obsidian) - A premium iTerm2 theme system designed for Claude Code operators who spend hours reading plans, diffs, logs, prompts, tool calls, errors, and approvals.
+* 🎨 [Canvas MCP](https://github.com/vicmaster/canvas-mcp) - An open-source MCP server that gives any AI assistant a visual design canvas. Uses HTML/CSS as the rendering engine — flexbox layout, text wrapping, and styling come for free.
