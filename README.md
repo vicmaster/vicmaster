@@ -17,6 +17,7 @@ My favorite tools are Ruby on Rails and AI, I also like dancing, playing music, 
 
 * ⚡ [Coide](https://github.com/vicmaster/coide) - A desktop GUI client for Claude Code that wraps the CLI you already use — same account, same subscription, no API key needed.
 * 🏪 [Coide Flows Marketplace](https://github.com/vicmaster/coide-flows-marketplace) - Community-shared workflows for [Coide](https://github.com/vicmaster/coide) — the desktop GUI for Claude Code.
+* 🗺️ [Skill Atlas](https://github.com/vicmaster/skill-atlas) - A Claude Desktop mod that shows every skill and subagent available to your session, and where each one lives across all your projects. Ported from [Coide](https://github.com/vicmaster/coide).
 * 🧩 [Claude Code Skills](https://github.com/vicmaster/skills) - A collection of reusable skills for Claude Code.
 * 🖥️ [Claude Code Obsidian](https://github.com/vicmaster/claude-code-obsidian) - A premium iTerm2 theme system designed for Claude Code operators who spend hours reading plans, diffs, logs, prompts, tool calls, errors, and approvals.
 * 🎨 [Framesmith](https://github.com/vicmaster/framesmith) - Open-source MCP server that turns your AI coding agent into a UI designer: a visual canvas, vetted design patterns, and a quality gate every design must pass before you see it. HTML/CSS, open JSON, any MCP client.
