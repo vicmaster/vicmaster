@@ -17,6 +17,7 @@ jobs:
         with:
           feed_list: "https://victorvelazquez.dev/rss.xml"
           max_post_count: 5
-          template: "- [$title]($url) · $date $newline"
+          template: "- [$title]($url) · $date$newline"
+          tag_post_pre_newline: true
           date_format: "UTC:yyyy-mm-dd"
           commit_message: "Update latest blog posts"
