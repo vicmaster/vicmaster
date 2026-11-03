@@ -14,11 +14,11 @@ My favorite tools are Ruby on Rails and AI, I also like dancing, playing music, 
 ### ✍️ Latest posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Your CLAUDE.md rules have an expiry date](https://victorvelazquez.dev/blog/your-claude-md-rules-have-an-expiry-date/) · 2026-11-03
 - [My agents file bugs on each other](https://victorvelazquez.dev/blog/my-agents-file-bugs-on-each-other/) · 2026-10-29
 - [Agents by function, not by role](https://victorvelazquez.dev/blog/agents-by-function-not-by-role/) · 2026-10-27
 - [Porting my homegrown GUI to a Claude Desktop mod](https://victorvelazquez.dev/blog/porting-my-homegrown-gui-to-a-claude-desktop-mod/) · 2026-10-22
 - [Agents route around your hooks](https://victorvelazquez.dev/blog/agents-route-around-your-hooks/) · 2026-10-20
-- [Authentication isn&#39;t authorization: guarding Rails MCP tools with Reeve](https://victorvelazquez.dev/blog/authentication-is-not-authorization-guarding-rails-mcp-tools-with-reeve/) · 2026-10-15
 
 <!-- BLOG-POST-LIST:END -->
 
